@@ -5,9 +5,9 @@ I am Manuel Escobar, an economist working at the Inter-American Development Bank
 * 🎓 MSc.(c) in Economics from the University of Chile  
 * 🏦 International **Macroeconomics** as primary field of interest  
 * 📊 Enthusiast of **data-driven** decisions 
-* 💻 Skilled in using advanced data techniques to analyze large datasets and tackle policy challenges  
+* 💻 Skilled in using advanced data techniques to analyze large datasets and tackle policy questions
 
-Feel free to reach out via email at [malfonsoep@gmail.com](mailto:malfonsoep@gmail.com).  
+Feel free to reach out via [malfonsoep@gmail.com](mailto:malfonsoep@gmail.com).  
 
 
 Made in 🇨🇱, currently living in 🇺🇸.
