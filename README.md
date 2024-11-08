@@ -1,4 +1,12 @@
-## Hi there 👋
+## Welcome to my profile 👋
+
+I am Manuel Escobar, an economist working in the Inter-American Development Bank as a macroeconomics consultant.
+
+🎓 MSc.(c) in Economics from University of Chile
+🏦 International Macroeconomics as primary field of interest
+📊 Enthusiast of data-driven decisions
+💻 Enjoy learning data techniques to handle large datasets and solving policy problem
+
 
 <!--
 **mnlescobar/mnlescobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
