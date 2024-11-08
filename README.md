@@ -9,7 +9,8 @@ I am Manuel Escobar, an economist working at the Inter-American Development Bank
 
 Feel free to reach out via email at [malfonsoep@gmail.com](mailto:malfonsoep@gmail.com).  
 
-Let’s connect and collaborate to drive impactful solutions!
+
+Made in 🇨🇱, currently living in 🇺🇸.
 <!--
 **mnlescobar/mnlescobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
