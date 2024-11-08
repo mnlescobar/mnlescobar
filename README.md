@@ -2,10 +2,10 @@
 
 I am Manuel Escobar, an economist working in the Inter-American Development Bank as a macroeconomics consultant.
 
-🎓 MSc.(c) in Economics from University of Chile
-🏦 International Macroeconomics as primary field of interest
-📊 Enthusiast of data-driven decisions
-💻 Enjoy learning data techniques to handle large datasets and solving policy problem
+-🎓 MSc.(c) in Economics from University of Chile
+-🏦 International Macroeconomics as primary field of interest
+-📊 Enthusiast of data-driven decisions
+-💻 Enjoy learning data techniques to handle large datasets and solving policy problem
 
 
 <!--
