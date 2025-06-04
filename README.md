@@ -1,6 +1,6 @@
 ## Welcome to my profile 👋
 
-I am Manuel Escobar, an economist and data science enthusiast working at the Inter-American Development Bank as a macroeconomics consultant.
+I am Manuel Escobar, an economist and data science enthusiast working at the International Monetary Fund as a Research Analyst.
 
 * 🎓 MSc. in Economics from the University of Chile  
 * 🏦 International **Macroeconomics** as primary field of interest  
