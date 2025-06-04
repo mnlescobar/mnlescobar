@@ -7,7 +7,7 @@ I am Manuel Escobar, an economist and data science enthusiast working at the Int
 * 📊 Enthusiast of **data-driven** decisions 
 * 💻 Skilled in using advanced data techniques to analyze large datasets and tackle policy questions
 
-Feel free to reach out via [malfonsoep@gmail.com](mailto:malfonsoep@gmail.com).  
+Feel free to reach out via LinkedIn.
 
 
 Made in 🇨🇱, currently living in 🇺🇸.
